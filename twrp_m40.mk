@@ -16,7 +16,7 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 $(call inherit-product, device/samsung/m40/device.mk)
 
 PRODUCT_DEVICE := m40
-PRODUCT_NAME := omni_m40
+PRODUCT_NAME := twrp_m40
 PRODUCT_BRAND := samsung
 PRODUCT_MODEL := SM-M405F
 PRODUCT_MANUFACTURER := samsung
